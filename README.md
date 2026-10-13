@@ -1,5 +1,46 @@
 # Arabic landing page
 
+Arabic landing page application source built with Next.js.
+
+[Source](https://github.com/Up-to-code/lading-page-zamele) · [Issues](https://github.com/Up-to-code/lading-page-zamele/issues) · [Project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
+
+## Technology
+
+Next.js, React, TypeScript.
+
+## Get started
+
+```sh
+git clone https://github.com/Up-to-code/lading-page-zamele.git
+cd lading-page-zamele
+```
+
+Requires Node.js and pnpm.
+
+```sh
+pnpm install
+pnpm dev
+```
+
+## Available commands
+
+| Command | Purpose |
+| --- | --- |
+| `pnpm dev` | Development server |
+| `pnpm start` | Start the configured application |
+| `pnpm build` | Build the project |
+| `pnpm lint` | Check lint rules |
+
+## Project structure
+
+- [`app`](./app)
+- [`components`](./components)
+
+<details>
+<summary>Existing setup notes and credits</summary>
+
+# Arabic landing page
+
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ahmeds-projects-78ef9fbb/v0-arabic-landing-page)
@@ -28,3 +69,5 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+</details>
